@@ -1,0 +1,11 @@
+html{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+body {
+    background-color: rgb(213, 213, 213);
+}
+
+h1 {
+    color: rgb(0, 123, 148);
+}
